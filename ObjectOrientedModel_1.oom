@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="77" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
 =======
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419429403" Name="ObjectOrientedModel_1" Objects="77" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
 >>>>>>> origin/master
+=======
+<?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="75" Symbols="2" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
+>>>>>>> parent of 0380960... e2
 =======
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="75" Symbols="2" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
 >>>>>>> parent of 0380960... e2
@@ -22,10 +26,14 @@
 <a:Creator>Haruki</a:Creator>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a:ModificationDate>1418754594</a:ModificationDate>
 =======
 <a:ModificationDate>1419429403</a:ModificationDate>
 >>>>>>> origin/master
+=======
+<a:ModificationDate>1418754296</a:ModificationDate>
+>>>>>>> parent of 0380960... e2
 =======
 <a:ModificationDate>1418754296</a:ModificationDate>
 >>>>>>> parent of 0380960... e2
@@ -1000,10 +1008,14 @@ NameToCode=No</a:ModelOptionsText>
 <a:Creator>Haruki</a:Creator>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a:ModificationDate>1418754594</a:ModificationDate>
 =======
 <a:ModificationDate>1419429403</a:ModificationDate>
 >>>>>>> origin/master
+=======
+<a:ModificationDate>1418754296</a:ModificationDate>
+>>>>>>> parent of 0380960... e2
 =======
 <a:ModificationDate>1418754296</a:ModificationDate>
 >>>>>>> parent of 0380960... e2
@@ -1533,6 +1545,7 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:ClassSymbol>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <o:ClassSymbol Id="o10">
 <<<<<<< HEAD
 <a:CreationDate>1418754594</a:CreationDate>
@@ -1560,6 +1573,8 @@ LABL 0 Arial,8,N</a:FontList>
 <o:Class Ref="o11"/>
 </c:Object>
 </o:ClassSymbol>
+=======
+>>>>>>> parent of 0380960... e2
 =======
 >>>>>>> parent of 0380960... e2
 </c:Symbols>
@@ -1590,6 +1605,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 </o:Class>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <o:Class Id="o11">
 <<<<<<< HEAD
 <a:ObjectID>06A2D4F3-B3FE-484F-8774-6190D0DABAB7</a:ObjectID>
@@ -1609,6 +1625,8 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Modifier>Haruki</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 </o:Class>
+=======
+>>>>>>> parent of 0380960... e2
 =======
 >>>>>>> parent of 0380960... e2
 </c:Classes>
