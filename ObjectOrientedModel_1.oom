@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="77" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
 =======
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419429403" Name="ObjectOrientedModel_1" Objects="77" Symbols="3" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
@@ -18,6 +19,9 @@
 =======
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="75" Symbols="2" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
 >>>>>>> parent of 0380960... e2
+=======
+<?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="75" Symbols="2" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
+>>>>>>> parent of e87cf9c... e1
 =======
 <?PowerDesigner AppLocale="UTF16" ID="{D027B660-8F94-468E-929B-561E0B9738DB}" Label="" LastModificationDate="1419356692" Name="ObjectOrientedModel_1" Objects="75" Symbols="2" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="16.1.0.3637"?>
 >>>>>>> parent of e87cf9c... e1
@@ -42,6 +46,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a:ModificationDate>1418754594</a:ModificationDate>
 =======
 <a:ModificationDate>1419429403</a:ModificationDate>
@@ -55,6 +60,9 @@
 =======
 <a:ModificationDate>1418754296</a:ModificationDate>
 >>>>>>> parent of 0380960... e2
+=======
+<a:ModificationDate>1418754296</a:ModificationDate>
+>>>>>>> parent of e87cf9c... e1
 =======
 <a:ModificationDate>1418754296</a:ModificationDate>
 >>>>>>> parent of e87cf9c... e1
@@ -1036,6 +1044,7 @@ NameToCode=No</a:ModelOptionsText>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a:ModificationDate>1418754594</a:ModificationDate>
 =======
 <a:ModificationDate>1419429403</a:ModificationDate>
@@ -1049,6 +1058,9 @@ NameToCode=No</a:ModelOptionsText>
 =======
 <a:ModificationDate>1418754296</a:ModificationDate>
 >>>>>>> parent of 0380960... e2
+=======
+<a:ModificationDate>1418754296</a:ModificationDate>
+>>>>>>> parent of e87cf9c... e1
 =======
 <a:ModificationDate>1418754296</a:ModificationDate>
 >>>>>>> parent of e87cf9c... e1
@@ -1585,6 +1597,7 @@ LABL 0 Arial,8,N</a:FontList>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <o:ClassSymbol Id="o10">
 <<<<<<< HEAD
 <a:CreationDate>1418754594</a:CreationDate>
@@ -1622,6 +1635,8 @@ LABL 0 Arial,8,N</a:FontList>
 >>>>>>> parent of e87cf9c... e1
 =======
 >>>>>>> parent of e87cf9c... e1
+=======
+>>>>>>> parent of e87cf9c... e1
 </c:Symbols>
 </o:ClassDiagram>
 </c:ClassDiagrams>
@@ -1654,6 +1669,7 @@ LABL 0 Arial,8,N</a:FontList>
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <o:Class Id="o11">
 <<<<<<< HEAD
 <a:ObjectID>06A2D4F3-B3FE-484F-8774-6190D0DABAB7</a:ObjectID>
@@ -1679,6 +1695,8 @@ LABL 0 Arial,8,N</a:FontList>
 >>>>>>> parent of 0380960... e2
 =======
 >>>>>>> parent of 0380960... e2
+=======
+>>>>>>> parent of e87cf9c... e1
 =======
 >>>>>>> parent of e87cf9c... e1
 =======
